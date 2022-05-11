@@ -1,6 +1,6 @@
 # Getting Started
 
-Este projeto apresenta uma aplicação web usando Spring MVC com Thymeleaf.
+Este projeto apresenta uma aplicação web usando Spring MVC (Spring Web) com Thymeleaf.
 
 Referência: [Introdução ao uso do Thymeleaf no Spring](https://www.baeldung.com/thymeleaf-in-spring-mvc)
 
